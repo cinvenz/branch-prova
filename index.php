@@ -9,10 +9,14 @@
 </head>
 
 <body>
-    <form action="">
-        <input type="text" name="email" id="">
-        <button>premi</button>
-    </form>
+    <header>
+        sono leader
+        <form action="">
+            <input type="text" name="email" id="">
+            <button>iscriviti</button>
+        </form>
+    </header>
+
 </body>
 
 </html>
