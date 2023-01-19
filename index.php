@@ -11,7 +11,7 @@
 <body>
     <form action="">
         <input type="text" name="email" id="">
-        <button>iscriviti</button>
+        <button>premi</button>
     </form>
 </body>
 
