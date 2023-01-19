@@ -9,13 +9,6 @@
 </head>
 
 <body>
-    <header>
-        sono leader
-        <form action="">
-            <input type="text" name="email" id="">
-            <button>iscriviti</button>
-        </form>
-    </header>
 
 </body>
 
